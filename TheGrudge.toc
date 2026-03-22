@@ -1,0 +1,14 @@
+## Interface: 30300
+## Title: The Grudge
+## Notes: Alerts you when players on your grudge list are nearby. Syncs with WhoDASH.
+## Author: YourName
+## Version: 0.2.0
+## SavedVariables: TheGrudgeSettings
+
+TheGrudge.lua
+TheGrudgeDB.lua
+ServerTranslator.lua
+Core.lua
+Detection.lua
+Alert.lua
+SettingsUI.lua

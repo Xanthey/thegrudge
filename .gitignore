@@ -1,0 +1,6 @@
+# WoW generates these at runtime — not part of the addon source
+*.bak
+
+# OS
+Thumbs.db
+.DS_Store
