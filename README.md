@@ -5,7 +5,9 @@
 A persistent grudge-tracking addon for World of Warcraft 3.3.5a (WotLK private servers, primarily Warmane).
 
 Maintains a list of players who have killed you and fires real-time proximity alerts the moment one of them enters your vicinity — via seven independent detection layers running in parallel.
-
+<p align="center">
+  <img src="readmefiles/thegrudge.png" alt="The Grudge - In-game" />
+</p>
 ---
 
 ## Features
